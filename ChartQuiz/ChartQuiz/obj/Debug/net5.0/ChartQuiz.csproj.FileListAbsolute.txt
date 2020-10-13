@@ -1,0 +1,16 @@
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.exe
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.deps.json
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.runtimeconfig.json
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.runtimeconfig.dev.json
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.dll
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ref\ChartQuiz.dll
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\bin\Debug\net5.0\ChartQuiz.pdb
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.csprojAssemblyReference.cache
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.AssemblyInfoInputs.cache
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.AssemblyInfo.cs
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.csproj.CoreCompileInputs.cache
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.dll
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ref\ChartQuiz.dll
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.pdb
+D:\SCHOOL\PROO\HW\console-chart-quiz-Samuel-Kowatschek\ChartQuiz\ChartQuiz\obj\Debug\net5.0\ChartQuiz.genruntimeconfig.cache

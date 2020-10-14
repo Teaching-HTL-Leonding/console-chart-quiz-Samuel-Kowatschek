@@ -17,19 +17,19 @@ namespace ChartQuiz
             _list = list;
             GroupingCol = groupingCol;
             SummarizeCol = summarizeCol;
-            GetMaxValue();
+            SetMaxValue();
         }
 
         public string GroupingCol { get; set; }
         public string SummarizeCol { get; set; }
         public int MaxVal { get; set; }
 
-        private void GetMaxValue()
+        private void SetMaxValue()
         {
             MaxVal = 0;
             foreach (var item in _list)
             {
-                if(item.Attacks > MaxVal)
+                if (item.Attacks > MaxVal)
                 {
                     MaxVal = item.Attacks;
                 }
@@ -52,7 +52,7 @@ namespace ChartQuiz
                         PrintChart(item);
                         break;
                     case "animal":
-                        Console.Write($"{item.Animal,-50}");
+                        Console.Write($"{item.Animal,- 50}");
                         PrintChart(item);
                         break;
                     case "attacks":
@@ -60,6 +60,7 @@ namespace ChartQuiz
                         PrintChart(item);
                         break;
                 }
+                Console.ResetColor();
             }
         }
 
@@ -68,11 +69,7 @@ namespace ChartQuiz
             if (SummarizeCol.ToLower() == "attacks")
             {
                 Console.BackgroundColor = ConsoleColor.DarkRed;
-                for (var i = 0; i < CalculatePercentage(item.Attacks); i++)
-                {
-                    Console.Write(" ");
-                }
-                Console.ResetColor();
+                Console.Write($"{new string(' ', CalculatePercentage(item.Attacks)), -5}\n");
             }
         }
 
